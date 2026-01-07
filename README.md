@@ -4,7 +4,7 @@
 
 **Este projeto consiste em um website front-end desenvolvido com tecnologias nativas, simulando a experiência de uma cafeteria real.** O foco principal do desenvolvimento foi a inclusão, integrando poderosas ferramentas de acessibilidade para garantir que todos os usuários tenham uma excelente experiência de navegação.
 
-🔗 **Acesse o projeto online:** [https://taylanhahn.github.io/SSI-Cafeteria/](https://taylanhahn.github.io/SSI-Cafeteria/)
+🔗 **Confira o resultado:** [https://taylanhahn.github.io/SSI-Cafeteria/](https://taylanhahn.github.io/SSI-Cafeteria/)
 
 <img src="/archive/1.png" align-items="center" width="100%">
 
