@@ -23,9 +23,8 @@ O site utiliza soluções líderes de mercado para garantir conformidade com a W
 
 * **🤲 VLibras:** Integração com o widget oficial para tradução automática de conteúdos para a Língua Brasileira de Sinais.
 * **ue UserWay Widget:** Menu completo de acessibilidade que oferece:
-    * 🌗 **Contraste:** Modos escuro, claro e inversão de cores.
     * ⏯️ **Controle de Animação:** Opção para pausar animações (segurança para epilepsia/sensibilidade).
-    * 🔎 **Visualização:** Zoom de tela, aumento de texto e espaçamento.
+    * 🔎 **Visualização:** Zoom de tela, aumento de texto, espaçamento e contraste.
     * 📖 **Leitura:** Leitor de tela integrado, guia de leitura e máscara de foco.
     * dyslexic **Fonte:** Tipografia amigável para disléxicos.
 
@@ -34,3 +33,4 @@ O site utiliza soluções líderes de mercado para garantir conformidade com a W
 * **📜 Cardápio Animado:** Exibição fluida dos produtos com efeitos visuais.
 * **🛒 Simulação de Pedido:** Fluxo completo de escolha de itens, carrinho de compras e feedback de conclusão do pedido.
 * **🃏 Cards Informativos:** Layout organizado em cartões responsivos.
+* **🌗 Contraste:** Modo claro e modo escuro, para a melhor experiência do usuário.
