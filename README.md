@@ -8,8 +8,6 @@
 
 <img src="/archive/1.png" align-items="center" width="100%">
 
----
-
 ## 🛠️ Tecnologias Utilizadas
 
 O projeto foi desenvolvido focando no domínio da base da web (Vanilla), sem dependência de frameworks JavaScript pesados.
@@ -17,8 +15,6 @@ O projeto foi desenvolvido focando no domínio da base da web (Vanilla), sem dep
 * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML5 Semântico**
 * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS3 (Grid, Flexbox, Animations)**
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) **JavaScript Puro (DOM Manipulation)**
-
----
 
 ## 🚀 Funcionalidades
 
