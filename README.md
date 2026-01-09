@@ -6,7 +6,7 @@
 
 🔗 **Confira o resultado:** [https://taylanhahn.github.io/SSI-Cafeteria/](https://taylanhahn.github.io/SSI-Cafeteria/)
 
-<img src="/archive/1.png" align-items="center" width="100%">
+<img src="./archive/gifssicafeteria.gif" align-items="center" width="100%">
 
 ## 🛠️ Tecnologias Utilizadas
 
